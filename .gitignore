@@ -261,4 +261,6 @@ dmypy.json
 
 
 exam
-project/data
+project/data_project
+.DS_Store
+project/.DS_Store
