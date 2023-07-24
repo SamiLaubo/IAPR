@@ -10,3 +10,16 @@ The final project is in the folder project and summarizes techniques learned in 
   <img src="images/extraction2.png" width="400" />
   <img src="images/extraction3.png" width="400" />
 </p>
+
+2. Extract features and cluster different puzzle pieces with k-means clustering
+<p float="left">
+  <img src="images/cluster1.png" width="400" />
+  <img src="images/cluster2.png" width="400" />
+</p>
+
+3. Connect puzzles together (potential for improvement of "side-similarity" cost function...):
+<p float="left">
+  <img src="images/solve1.png" width="200" />
+  <img src="images/solve2.png" width="200" />
+  <img src="images/solve3.png" width="200" />
+</p>
